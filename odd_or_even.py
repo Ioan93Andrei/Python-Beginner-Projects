@@ -8,5 +8,3 @@ def odd_or_even():
         print(f'{number} is an EVEN number.')
 
 odd_or_even()
-
-# There is an error when the division results in a float number
